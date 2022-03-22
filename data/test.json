@@ -1,0 +1,16 @@
+[
+  {
+    "ticker": "ZZZ",
+    "entry": 20,
+    "exit": 10,
+    "shares": 10,
+    "profitOrLoss": -100
+  },
+  {
+    "ticker": "ZZZ",
+    "entry": 10,
+    "exit": 20,
+    "shares": 10,
+    "profitOrLoss": 100
+  }
+]
